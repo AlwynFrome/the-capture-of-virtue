@@ -12,18 +12,16 @@ During the era of Reform and Opening Up, Sino-Japanese relations entered a perio
 
 From the perspective of contemporary China, however, this atmosphere appears almost unimaginable. Within the collective memory that has gradually been reconstructed in recent years, this extended period of Sino-Japanese reconciliation occupies remarkably little public space. For many younger Chinese, it is scarcely remembered as an important chapter in bilateral relations. Moreover, if reconciliation is to be discussed seriously, it is inaccurate to claim that Japan has “never apologized” for its wartime conduct, as is frequently asserted in contemporary Chinese public discourse. As argued earlier, reconciliation does not depend exclusively upon formal expressions of apology. Institutional transformation, peaceful postwar conduct, and sustained diplomatic engagement may themselves constitute important components of the reconciliation process. Nevertheless, even if one adopts the stricter criterion of explicit governmental apologies, the historical record remains inconsistent with the claim that Japan has never apologized.
 
-According to incomplete but widely cited compilations, successive Japanese governments have issued numerous public statements expressing remorse or apology toward countries in East and Southeast Asia since the end of the Second World War. The precise number varies depending on how such statements are defined and counted. For present purposes, rather than attempting to establish a definitive total, it is sufficient to identify a number of prominent statements that were formally issued by Japanese prime ministers or governments and that explicitly addressed Japan’s wartime aggression, colonial rule, or the suffering caused by Japan’s wartime conduct. (Table the table below).
+According to incomplete but widely cited compilations, successive Japanese governments have issued numerous public statements expressing remorse or apology toward countries in East and Southeast Asia since the end of the Second World War. The precise number varies depending on how such statements are defined and counted. For present purposes, rather than attempting to establish a definitive total, it is sufficient to identify a number of prominent statements that were formally issued by Japanese prime ministers or governments and that explicitly addressed Japan’s wartime aggression, colonial rule, or the suffering caused by Japan’s wartime conduct. (Table 1.1-1).
 
-|                    |                   |                                                     |                                                                                                                                                                                                                                                                  |
-|:-------------------|:------------------|:----------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+**Table 1.1-1. Major Japanese Government Statements Concerning Wartime Responsibility**
+
 | Date               | Prime Minister    | Occasion                                            | Core Content                                                                                                                                                                                                                                                     |
 | **31 August 1994** | Tomiichi Murayama | Peace, Friendship and Exchange Initiative           | Expressed profound remorse concerning Japan’s past conduct and referred to the suffering caused by Japan’s wartime actions, including the issue of former “comfort women.”[^1]                                                                                   |
 | **15 August 1995** | Tomiichi Murayama | Fiftieth Anniversary Statement (Murayama Statement) | Explicitly referred to Japan’s “colonial rule and aggression,” expressed “deep remorse,” and offered a “heartfelt apology.” Widely regarded as one of the most significant official statements of postwar Japanese acknowledgment of wartime responsibility.[^2] |
 | **22 April 2005**  | Junichiro Koizumi | Asian–African Summit, Jakarta                       | Reaffirmed Japan’s “deep remorse” and “heartfelt apology” for the suffering caused by Japan’s past conduct in Asia.[^3]                                                                                                                                          |
 | **15 August 2005** | Junichiro Koizumi | Sixtieth Anniversary Statement                      | Reaffirmed the principles of remorse and apology articulated in the Murayama Statement.[^4]                                                                                                                                                                      |
 | **14 August 2015** | Shinzo Abe        | Seventieth Anniversary Statement                    | Affirmed that the expressions of remorse and apology made by previous cabinets would remain unchanged, while stating that future generations should not be expected to continue apologizing indefinitely.[^5]                                                    |
-
-**Table: Major Japanese Government Statements Concerning Wartime Responsibility**
 
 These statements do not represent an exhaustive list, nor should they necessarily be treated as identical in scope or character. Some constitute new statements of remorse or apology, while others explicitly reaffirm positions expressed by earlier governments. Nevertheless, taken together, they form a substantial part of the documentary record concerning the Japanese government’s postwar treatment of its wartime conduct.
 
@@ -47,16 +45,15 @@ At first glance, anti-Japanese sentiment in contemporary China appears both unde
 
 Accordingly, we must return to the central proposition introduced above: if contemporary Chinese society is genuinely motivated by concern for the suffering of its historical victims, then to what extent does it actually concern itself with the concrete historical magnitude and distribution of that suffering?
 
+[^1]: Murayama, Tomiichi, “Statement by Prime Minister Tomiichi Murayama on the ‘Peace, Friendship, and Exchange Initiative’.”
 
-[^1]: (Murayama, Tomiichi 1994)
+[^2]: Murayama, Tomiichi, “Statement by Prime Minister Tomiichi Murayama on the Occasion of the 50th Anniversary of the War’s End.”
 
-[^2]: (Murayama, Tomiichi 1995)
+[^3]: Koizumi, Junichiro, “Speech by h.e. Mr. Junichiro Koizumi, Prime Minister of Japan.”
 
-[^3]: (Koizumi, Junichiro 2005a)
+[^4]: Koizumi, Junichiro, “Statement by Prime Minister Junichiro Koizumi.”
 
-[^4]: (Koizumi, Junichiro 2005b)
-
-[^5]: (Abe, Shinzo 2015)
+[^5]: Abe, Shinzo, “Statement by Prime Minister Shinzo Abe.”
 
 [^6]: As we discuss here and further explore below, this persistent sense of dissatisfaction cannot be attributed solely to historical considerations, but is shaped to a greater extent by processes of political mobilization. The responsibility for addressing this problem therefore does not rest primarily with the Japanese government, but with Chinese society itself.
 

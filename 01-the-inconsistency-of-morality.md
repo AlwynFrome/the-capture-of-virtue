@@ -18,19 +18,19 @@ The answer is not difficult to discern. As suggested in the preceding discussion
 
 $$H_{JPN} = nD_{JPN}, (n>0)$$
 
-When plotted on a Cartesian coordinate system, this relationship is simply a linear function (Figure the following figure).
+When plotted on a Cartesian coordinate system, this relationship is simply a linear function (Figure 1.2-1).
 
-![The Japanese Militarism](japanese-militarism.png)
+![Figure 1.2-1 — The Japanese Militarism](japanese-militarism.png)
 
-*Figure: The Japanese Militarism*
+**Figure 1.2-1. The Japanese Militarism**
 
 Within this evaluative framework, the greater the number of people killed by Imperial Japan, the greater the historical harm attributed to Japan. From this premise follows one of the most familiar propositions in contemporary Chinese public discourse: “We hate Japan because Japan killed too many Chinese people.” If this proposition is taken at face value, then anti-Japanese sentiment is presented as a moral response grounded in the perceived injustice of mass killing itself. In other words, the emotion is claimed to arise not merely from national identity or historical memory, but from an ethical condemnation of indiscriminate violence against human life.
 
-Taken in isolation, such an explanation appears internally coherent. Yet genuine moral principles cannot be identified merely by observing how individuals respond within a single context. Rather, they are revealed by the consistency with which those same evaluative standards are applied across different contexts. If an alleged moral principle is abandoned whenever the surrounding circumstances change, then it is difficult to regard that principle as the product of autonomous moral conviction. Instead, it is more plausibly understood as an adaptive response shaped by external circumstances rather than a value freely chosen and consistently upheld. A simple comparison is sufficient to expose this inconsistency (Figure the following figure).
+Taken in isolation, such an explanation appears internally coherent. Yet genuine moral principles cannot be identified merely by observing how individuals respond within a single context. Rather, they are revealed by the consistency with which those same evaluative standards are applied across different contexts. If an alleged moral principle is abandoned whenever the surrounding circumstances change, then it is difficult to regard that principle as the product of autonomous moral conviction. Instead, it is more plausibly understood as an adaptive response shaped by external circumstances rather than a value freely chosen and consistently upheld. A simple comparison is sufficient to expose this inconsistency (Figure 1.2-2).
 
-![The Chinese Communist Party](chinese-communist-party.png)
+![Figure 1.2-2 — The Chinese Communist Party](chinese-communist-party.png)
 
-*Figure: The Chinese Communist Party*
+**Figure 1.2-2. The Chinese Communist Party**
 
 Suppose that the very same evaluative framework employed in discussions of Imperial Japan is applied instead to episodes in which the Chinese Communist Party inflicted mass death upon the Chinese population—episodes whose scale or historical duration, according to the argument presented here, equals or exceeds that of the Japanese invasion. Under these circumstances, the proposed relationship collapses entirely. The difficulty is not merely that:
 

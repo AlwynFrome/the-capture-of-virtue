@@ -24,13 +24,12 @@ At this point, one might raise an important objection: perhaps ancient societies
 
 There are, of course, many additional conditions and contextual variables that should be incorporated into a fuller examination of the historical materials presented above. The cases discussed here should therefore not be regarded as sufficient, in isolation, to establish a complete causal account. A historical precedent does not become a direct cause merely because a similar pattern appears again centuries later. Nor does recurrence by itself tell us whether the relevant mechanism was cultural transmission, institutional inheritance, independent reconstruction, political reinterpretation, or some combination of these processes. Nevertheless, taken together, the historical materials yield one conclusion that is difficult to dismiss. The practice of constructing an artificial field of “natural selection” has appeared repeatedly on Chinese soil. Across different historical periods, suffering, endurance, hierarchy, disciplined adaptation, and selection have at various times been assigned positive cultural or institutional meaning. These manifestations were not identical, and they should not be collapsed into a single uninterrupted tradition. But their recurrence establishes that the contemporary valorization of competitive endurance cannot be treated as an entirely novel response to modern capitalism. The historical record therefore does not prove that contemporary China is simply the continuation of ancient China. It establishes something more important for the argument of this book: the contemporary system has historical precedents. And once such precedents are established, history can no longer be treated as merely a background narrative external to the contemporary problem. It becomes part of the explanatory field within which that problem must be understood. The question is consequently no longer whether history “caused” contemporary China in some singular or linear sense. The more meaningful question is how historical patterns become available to later institutions: how they are remembered, forgotten, reinterpreted, institutionalized, discarded, and reconstructed; how an old valuation can acquire a new function; and how practices developed under radically different material conditions can become intelligible again within a modern society. The contemporary educational system may shape the roads through which different people move, but those roads did not appear from nowhere. They have histories. And if some of the same principles of selection, endurance, hierarchy, and suffering have repeatedly been embedded within the institutions through which generations of people were educated and evaluated, then the contemporary landscape cannot be understood solely by examining the immediate pressures of the present. The historical precedents do not by themselves complete the explanation. But they establish why the explanation must continue to look backward.
 
+[^1]: Chan, *A Source Book in Chinese Philosophy*.
 
-[^1]: (Chan 1963)
+[^2]: Chu, Furukawa, and Zhu, “Growth and Parental Preference for Education in China.”
 
-[^2]: (Chu, Furukawa, and Zhu 2016)
+[^3]: Elman, *Civil Examinations and Meritocracy in Late Imperial China*.
 
-[^3]: (Elman 2013)
+[^4]: Wu, *The Scholars*.
 
-[^4]: (Wu 1957)
-
-[^5]: (Li 2023)
+[^5]: Li, “The Sin of Words.”

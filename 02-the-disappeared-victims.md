@@ -36,5 +36,4 @@ Why, then, has this entire configuration emerged in the first place? How was it 
 
 It is with these questions in mind that we now turn to the second part of this book.
 
-
-[^1]: (Yang 2008)
+[^1]: Yang, “Reconsidering the Campaign to Suppress Counterrevolutionaries.”

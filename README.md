@@ -2,10 +2,12 @@
 
 ## How Power Corrupts Moral Judgment
 
-**Alwyn Frome**
+**ALWYN FROME**
 
-This is the GitBook-ready Markdown edition of the supplied LaTeX manuscript.
+![Title emblem](circle.png)
 
-The navigation follows the hierarchy explicitly defined in `Main.tex` and `Main.toc`. Only material actually included by `Main.tex` is imported as manuscript content.
+---
 
-> **Working manuscript:** “The Dissolution of Boundaries” and Part III are marked as in process in the supplied source.
+This GitBook edition is a structural conversion of the supplied LaTeX manuscript. The chapter order, section numbering, arguments, citations, figures, table, and bibliography are retained as closely as GitBook Markdown permits.
+
+The manuscript itself identifies Part III and Section 2.2.2 as works in progress.
