@@ -22,14 +22,10 @@ More importantly, even if Japan had intentionally sought to reduce anti-Japanese
 
 This, in turn, leads us to the second major question of this article: whether there exists a more appropriate and intellectually coherent way to understand anti-Japanese sentiment and, more broadly, the relationship between historical memory, national identity, and international reconciliation.
 
-[^1]: Liu and Yang, “Censorship on Japanese Anime Imported into Mainland China.”
-
+[^1]: Jionghao Liu and Ling Yang, “Censorship on Japanese Anime Imported into Mainland China”, *Transformative Works and Cultures* 42 (2024).
 [^2]: This should be understood as a judgment concerning the publicly accessible documentary record rather than as proof that no undisclosed intention could have existed.
 
-[^3]: “The Japan Foundation in China.”
-
-[^4]: “Cool Japan.”
-
-[^5]: “Can Pop Culture Allay Resentment? Japan’s Influence in China Today.”
-
-[^6]: “Anti-Japanese Sentiment Among Chinese University Students.”
+[^3]: Utpal Vyas, “The Japan Foundation in China: An Agent of Japan’s Soft Power?”, *Electronic Journal of Contemporary Japanese Studies* 8, no. 3 (2008): 1–17.
+[^4]: Elizabeth Agyeiwaah, Wantanee Suntikul, and Yee Shan Carmen Li, “Cool Japan: Anime, Soft Power and Hong Kong Generation Y Travel to Japan”, *Journal of China Tourism Research* 15, no. 2 (2019): 127–148.
+[^5]: Yuqing Wu, “Can Pop Culture Allay Resentment? Japan’s Influence in China Today”, *Media and Communication* 9, no. 3 (2021): 112–122.
+[^6]: Min Zhou and Hanning Wang, “Anti-Japanese Sentiment among Chinese University Students: The Influence of Contemporary Nationalist Propaganda”, *Journal of Current Chinese Affairs* 46, no. 1 (2017): 167–185.

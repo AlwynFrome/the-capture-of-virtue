@@ -45,16 +45,11 @@ At first glance, anti-Japanese sentiment in contemporary China appears both unde
 
 Accordingly, we must return to the central proposition introduced above: if contemporary Chinese society is genuinely motivated by concern for the suffering of its historical victims, then to what extent does it actually concern itself with the concrete historical magnitude and distribution of that suffering?
 
-[^1]: Murayama, Tomiichi, “Statement by Prime Minister Tomiichi Murayama on the ‘Peace, Friendship, and Exchange Initiative’.”
-
-[^2]: Murayama, Tomiichi, “Statement by Prime Minister Tomiichi Murayama on the Occasion of the 50th Anniversary of the War’s End.”
-
-[^3]: Koizumi, Junichiro, “Speech by h.e. Mr. Junichiro Koizumi, Prime Minister of Japan.”
-
-[^4]: Koizumi, Junichiro, “Statement by Prime Minister Junichiro Koizumi.”
-
-[^5]: Abe, Shinzo, “Statement by Prime Minister Shinzo Abe.”
-
+[^1]: Tomiichi Murayama, “Statement by Prime Minister Tomiichi Murayama on the “Peace, Friendship, and Exchange Initiative””, Aug. 31, 1994. Visited on 09/01/2026.
+[^2]: Tomiichi Murayama, “Statement by Prime Minister Tomiichi Murayama on the Occasion of the 50th Anniversary of the War’s End”, Aug. 15, 1995. Visited on 09/01/2026.
+[^3]: Junichiro Koizumi, “Speech by H.E. Mr. Junichiro Koizumi, Prime Minister of Japan”, Apr. 22, 2005. Visited on 09/01/2026.
+[^4]: Junichiro Koizumi, “Statement by Prime Minister Junichiro Koizumi”, Aug. 15, 2005. Visited on 09/01/2026.
+[^5]: Shinzo Abe, “Statement by Prime Minister Shinzo Abe”, Aug. 14, 2015. Visited on 09/01/2026.
 [^6]: As we discuss here and further explore below, this persistent sense of dissatisfaction cannot be attributed solely to historical considerations, but is shaped to a greater extent by processes of political mobilization. The responsibility for addressing this problem therefore does not rest primarily with the Japanese government, but with Chinese society itself.
 
 [^7]: A further qualification is necessary here. The preservation of historical suffering within collective memory does not, by itself, establish that such remembrance constitutes an expression of collective moral responsibility. The inference runs in only one direction: a society with a strong sense of collective responsibility may be expected to preserve memories of past suffering, but the existence or intensity of such remembrance does not demonstrate that the individuals who reproduce it have independently arrived at the moral commitments that it appears to express.

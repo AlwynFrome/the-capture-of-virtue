@@ -26,4 +26,4 @@ The experience of primary school, however, is not itself the object of my critic
 
 [^1]: See Bilibili, search results for “中式教育,” accessed August 24, 2026, <https://search.bilibili.com/all?keyword=中式教育>.
 
-[^2]: 老周横眉, “‘请救救我们！’500封来自学生和家长的控诉，中国的学校有多恐怖？这也许是全球中文圈对中国教育现状最全面和深刻的一次探讨.”
+[^2]: 老周横眉, ““请救救我们！”500封来自学生和家长的控诉，中国的学校有多恐怖？这也许是全球中文圈对中国教育现状最全面和深刻的一次探讨”, Nov. 28, 2024. Visited on 08/25/2026.
