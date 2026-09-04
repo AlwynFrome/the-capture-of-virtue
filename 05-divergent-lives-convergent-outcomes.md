@@ -2,11 +2,9 @@
 
 At this point in the argument, we can finally connect the alienating effects of the educational system to the political emotions and nationalist values discussed in Part I. In Section 2.1.2, I described how the educational system can systematically cultivate individuals who are highly responsive to political mobilization while possessing a weakened capacity for independent judgment. But that account describes only one possible trajectory. It does not yet show what happens to the rest of the population. If one has lived inside Chinese society while spending substantial time moving between the Simplified Chinese Internet and the Chinese-language Internet beyond it, a broader pattern begins to emerge. The individuals encountered within these different environments are obviously not identical. They differ in education, social position, political awareness, ambition, temperament, access to information, and willingness to confront political questions. Yet these differences do not make the system unintelligible. On the contrary, once these differences are placed alongside the institutional conditions that shape them, a recognizable pattern begins to appear. I have tried to represent that pattern in Figure the tree diagram referenced in the source.
 
-<div class="sidewaysfigure">
+![Natural Selection Shaped by the Chinese Educational Model](tree-diagram.png)
 
-**Table: Natural Selection Shaped by the Chinese Educational Model**
-
-</div>
+*Figure: Natural Selection Shaped by the Chinese Educational Model*
 
 The figure requires some explanation, because without it the branches can easily be misunderstood. It is not intended as a rigid taxonomy of Chinese people, nor does it suggest that every individual must pass through a fixed sequence of stages. It is better understood as a map of possible trajectories: different paths that become more or less likely when individual differences interact with the institutional environment in which people are educated and socialized. At this point, I need to introduce one concept that will become important for interpreting the figure: Political Intelligence.
 

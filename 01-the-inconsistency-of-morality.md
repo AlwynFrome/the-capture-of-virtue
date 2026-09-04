@@ -20,7 +20,7 @@ $$H_{JPN} = nD_{JPN}, (n>0)$$
 
 When plotted on a Cartesian coordinate system, this relationship is simply a linear function (Figure the following figure).
 
-![The Japanese Militarism](../../../assets/japanese-militarism.png)
+![The Japanese Militarism](japanese-militarism.png)
 
 *Figure: The Japanese Militarism*
 
@@ -28,7 +28,7 @@ Within this evaluative framework, the greater the number of people killed by Imp
 
 Taken in isolation, such an explanation appears internally coherent. Yet genuine moral principles cannot be identified merely by observing how individuals respond within a single context. Rather, they are revealed by the consistency with which those same evaluative standards are applied across different contexts. If an alleged moral principle is abandoned whenever the surrounding circumstances change, then it is difficult to regard that principle as the product of autonomous moral conviction. Instead, it is more plausibly understood as an adaptive response shaped by external circumstances rather than a value freely chosen and consistently upheld. A simple comparison is sufficient to expose this inconsistency (Figure the following figure).
 
-![The Chinese Communist Party](../../../assets/chinese-communist-party.png)
+![The Chinese Communist Party](chinese-communist-party.png)
 
 *Figure: The Chinese Communist Party*
 

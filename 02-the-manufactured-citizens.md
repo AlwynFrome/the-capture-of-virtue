@@ -10,9 +10,9 @@ The proposition that “the harder you work, the luckier you become” presents 
 
 Indeed, it is striking to consider what these videos could have included but generally did not. They could have presented empirical evidence concerning the relationship between anxiety and academic performance. They could have explained that excessive stress can impair concentration, working memory, decision-making, and executive functioning. They could have shown students that productivity is not necessarily a monotonically increasing function of psychological pressure. In graphical terms, one might reasonably represent the relationship between anxiety and effective performance as an inverted-U-shaped curve: insufficient arousal may produce low engagement, while moderate levels can facilitate concentration, but excessive anxiety can eventually reduce effective performance (Figure Figure: Execution Performance vs. Anxiety).
 
-<figure>
-<p><strong>Table: Execution Performance vs. Anxiety</strong></p>
-</figure>
+![Execution Performance vs. Anxiety](execution-vs-anxiety.png)
+
+*Figure: Execution Performance vs. Anxiety*
 
 Yet that is not the message these videos were designed to communicate. Their function was not scientific explanation. Their function was emotional mobilization. This distinction matters because emotional mobilization can be extremely effective even when the proposition being communicated is empirically weak. A statement does not become scientifically justified merely because it succeeds in making an adolescent study for another three hours. Indeed, from the perspective of educational responsibility, effectiveness cannot be defined exclusively by whether the desired behavior is successfully produced. The more important question is what psychological and normative mechanism is being used to produce it. In my view, a system that attempts to generate academic progress primarily through fear, guilt, anxiety, and exaggerated promises is adopting an extraordinarily narrow conception of education. It treats the student’s psychological state as an instrument to be manipulated rather than as an aspect of the student’s well-being that education itself ought to protect.
 
