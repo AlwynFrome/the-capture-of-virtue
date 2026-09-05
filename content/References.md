@@ -181,3 +181,62 @@ Foreign Languages Press, Peking.
 DOI: [10.1111/aehr.12268](https://doi.org/10.1111/aehr.12268)
 
 **Citation key:** `li2023`
+
+---
+
+## Ministry of Commerce of the People's Republic of China — 俄罗斯
+
+**Ministry of Commerce of the People's Republic of China.** *俄罗斯.*  
+Ministry of Commerce of the People's Republic of China.
+
+**Citation key:** `mofcom_russian_territory`  
+**Accessed:** 2026-09-06
+
+---
+
+## Invest Mongolia Agency 2023
+
+**Invest Mongolia Agency.** (2023). *Investor Guidebook Mongolia 2023.*
+
+**Citation key:** `mongolia_land_area`  
+**Accessed:** 2026-09-06
+
+---
+
+## Christensen, Johnston & Ross 2005
+
+**Christensen, Thomas J., Alastair Iain Johnston, and Robert S. Ross.** (2005). *Strong Borders, Secure Nation: Cooperation and Conflict in China's Territorial Disputes.*  
+Princeton University Press, Princeton, NJ.  
+DOI: [10.1515/9781400828876](https://doi.org/10.1515/9781400828876)
+
+**Citation key:** `christensen_strong_borders`
+
+---
+
+## Ladds 2016
+
+**Ladds, Catherine.** (2016). *China and Treaty Port Imperialism.*  
+In John MacKenzie (Ed.), *The Encyclopedia of Empire.* Wiley-Blackwell.  
+DOI: [10.1002/9781118455074.wbeoe079](https://doi.org/10.1002/9781118455074.wbeoe079)
+
+**Citation key:** `ladds2016`
+
+---
+
+## Tythacott 2015
+
+**Tythacott, Louise.** (2015). *Trophies of War: Representing ‘Summer Palace’ Loot in Military Museums in the UK.*  
+*Museum and Society*, 13(4), 469–488.  
+DOI: [10.29311/mas.v13i4.348](https://doi.org/10.29311/mas.v13i4.348)
+
+**Citation key:** `tythacott2015`
+
+---
+
+## Rummel 1991
+
+**Rummel, R. J.** (1991). *China's Bloody Century: Genocide and Mass Murder Since 1900.*  
+Transaction Publishers.  
+ISBN: 088738417X
+
+**Citation key:** `rummel1991`
